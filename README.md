@@ -1,3 +1,5 @@
+  
+  # Good Readme generator
   ##  Description
    this will render a good readme
 
@@ -20,10 +22,9 @@
   ## License
    This project is licensed under the 
    
-MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-  # Good Readme generator
 
   ## Insallation
    To install necessary dependencies run the following command: 
@@ -49,4 +50,5 @@ no
   angel@ndpt.com
   or find my work on github
   [angelpena619](https://github.com/angelpena619)
+  
   
